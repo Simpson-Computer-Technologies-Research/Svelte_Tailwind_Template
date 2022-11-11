@@ -1,4 +1,4 @@
-# Svelte.js and Three.js Template
+# Svelte.js and Tailwind CSS Template
 
 <h3>Usage</h3>
 
