@@ -2,7 +2,7 @@
 
 <h3>Usage</h3>
 
-- git clone https://github.com/Simpson-Computer-Technologies-Research/Svelte_Tailwind_Template.git
+- git clone --depth 1 https://github.com/Simpson-Computer-Technologies-Research/Svelte_Tailwind_Template.git
 - rm -r .git
 - py rename.py
 
